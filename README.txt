@@ -26,6 +26,6 @@ Same string is used for parts A and B while a different string is used for part 
 Part 5a is for contents of part A while 5b is for contents of part B.
 Part 5c is for contents of part C.
 
-
+LINK FOR GITHUB REPOSITORY:https://github.com/Pranav-gu/ISS-ASSIGNMENT-1
 
 NOTE: FOR ALL THE 5 PROGRAMS COMPILATION IS DONE IN THE USUAL MANNER.
